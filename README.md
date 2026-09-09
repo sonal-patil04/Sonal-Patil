@@ -41,7 +41,7 @@ To continuously learn, build, and explore different areas of technology while de
 
 ## 📊 GitHub Stats
 
-![Sonal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonal-patil04\&show_icons=true\&theme=default)
+!(https://github-readme-stats.vercel.app/api?username=sonal-patil04\&show_icons=true\&theme=default)
 
 ## 📫 Connect With Me
 
