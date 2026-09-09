@@ -12,7 +12,7 @@ I enjoy learning about technology, building practical projects, and exploring di
 
 ## 👩‍💻 About Me
 
-* 🎓 **BCA Graduate** — G. H. Raisoni
+* 🎓 **BCA Graduate** — G. H. Raisoni College
 * 🎓 **Currently pursuing MCA** — MES IMCC
 * 🐍 Learning and working with **Python**
 * 🌐 Exploring **Web Development**
