@@ -130,17 +130,7 @@ I'm focused on:
 * 🚀 Gaining more hands-on development experience
 * 🌱 Growing continuously as a technology professional
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonal-patil04&show_icons=true&hide_border=true&rank_icon=github" alt="Sonal's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonal-patil04&layout=compact&hide_border=true" alt="Sonal's Top Languages" />
-</p>
 
 ---
 
